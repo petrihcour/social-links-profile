@@ -1,0 +1,59 @@
+/* fonts */
+
+.chango {
+  font-family: "Chango", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.lato-light {
+  font-family: "Lato", sans-serif;
+  font-weight: 300;
+  font-style: normal;
+}
+
+.lato-regular {
+  font-family: "Lato", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.lato-bold {
+  font-family: "Lato", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+/* color palette */
+
+/* 
+
+Rich Black - #071E22 text-color
+Skobeloff - #1D7874 primary 
+Viridian - #679289 primary accent
+Red - #EE2E31 accent
+Peach - #F4C095 background color
+
+*/
+
+body {
+  background-color: #071e22;
+}
+
+main {
+  color: #f4c095;
+}
+
+.card-background {
+  background-color: #071e22;
+  color: #f4c095;
+}
+
+.card-boxshadow {
+  box-shadow: 3px 6px 3px 1px #ee2e31;
+}
+
+.btn-viridian {
+  background-color: #1d7874;
+  color: #f4c095;
+}
