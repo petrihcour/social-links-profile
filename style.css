@@ -29,8 +29,8 @@
 /* 
 
 Rich Black - #071E22 background-color
-Skobeloff - #1D7874 primary 
-Viridian - #679289 primary accent
+Skobeloff - #165f5b primary 
+Viridian - #709990 primary accent
 Red - #EE2E31 accent
 Peach - #F4C095 text-color
 
@@ -54,15 +54,15 @@ main {
 }
 
 .city-state {
-  color: #679289;
+  color: #709990;
 }
 
 .btn-skobeloff {
-  background-color: #1d7874;
+  background-color: #165f5b;
   color: #f4c095;
 }
 
 .btn-skobeloff:hover {
-  background-color: #165b58;
+  background-color: #114643;
   color: #f4c095;
 }
