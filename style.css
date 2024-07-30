@@ -28,11 +28,11 @@
 
 /* 
 
-Rich Black - #071E22 text-color
+Rich Black - #071E22 background-color
 Skobeloff - #1D7874 primary 
 Viridian - #679289 primary accent
 Red - #EE2E31 accent
-Peach - #F4C095 background color
+Peach - #F4C095 text-color
 
 */
 
@@ -45,15 +45,24 @@ main {
 }
 
 .card-background {
-  background-color: #071e22;
+  background-color: #0a2d33;
   color: #f4c095;
 }
 
-.card-boxshadow {
-  box-shadow: 3px 6px 3px 1px #ee2e31;
+.text-shadow {
+  text-shadow: #ee2e31 3px 2px;
 }
 
-.btn-viridian {
+.city-state {
+  color: #679289;
+}
+
+.btn-skobeloff {
   background-color: #1d7874;
+  color: #f4c095;
+}
+
+.btn-skobeloff:hover {
+  background-color: #165b58;
   color: #f4c095;
 }
